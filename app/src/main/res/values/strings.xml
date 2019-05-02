@@ -1,0 +1,33 @@
+<resources>
+    <!-- global strings -->
+
+    <string name="app_name">Juventus</string>
+    <string name="title_home">Home</string>
+    <string name="title_calendario">Calendário</string>
+    <string name="title_perfil">Perfil</string>
+    <string name="title_trofeus">Troféus</string>
+    <string name="title_futpub">FutPub</string>
+
+    <!-- strings das imagens  -->
+    <string name="championleague">Champions League</string>
+    <string name="europeleague">Europe League</string>
+    <string name="intercontinental">Intercontinental</string>
+    <string name="italiancup">Italian Cup</string>
+    <string name="italianseriesb">Italian SeriesB</string>
+    <string name="italiansupercup">Italian Super Cup</string>
+    <string name="uefacup">UEFA Cup</string>
+    <string name="uefasupercup">UEFA Super Cup</string>
+    <string name="cupwinners">CupWinners</string>
+    <string name="italianchampion">Italian Champion</string>
+
+    <string name="cartao">Cartão Sócio</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="epoca16_17">Epoca 2016/2017</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

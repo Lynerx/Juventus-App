@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group>
+        <item
+            android:id="@+id/perfil"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="@string/title_perfil" />
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:title="Logout" />
+    </group>
+
+    <item android:title="Menu">
+        <menu>
+            <item
+                android:id="@+id/home2"
+                android:icon="@drawable/ic_home_black_24dp"
+                android:title="Home" />
+            <item
+                android:id="@+id/home"
+                android:icon="@drawable/ic_supervisor_account_black_24dp"
+                android:title="Plantel" />
+            <item
+                android:id="@+id/futpub"
+                android:icon="@drawable/futpub"
+                android:title="@string/title_futpub" />
+            <item
+                android:id="@+id/calendario"
+                android:icon="@mipmap/cal"
+                android:title="@string/title_calendario" />
+            <item
+                android:id="@+id/trofeus"
+                android:icon="@mipmap/trophy"
+                android:title="@string/title_trofeus" />
+        </menu>
+    </item>
+
+</menu>

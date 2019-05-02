@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "329619342050",
+    "firebase_url": "https://juveapp-68cd8.firebaseio.com/",
+    "project_id": "juveapp-68cd8",
+    "storage_bucket": "juveapp-68cd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329619342050:android:0ac19f20acac07a1",
+        "android_client_info": {
+          "package_name": "com.example.juventus1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329619342050-08vh0ovgcf4mr1etr2vi2921s46kb3db.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.juventus1",
+            "certificate_hash": "8e1cbe7b9386e006dd5b02f3af3c91fe426d289a"
+          }
+        },
+        {
+          "client_id": "329619342050-1lrrd3poj1onnq5ql9iffqh84t160joa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIbo_gL7UHCb80oIVPaXcF0oH7ZKqvp24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329619342050-1lrrd3poj1onnq5ql9iffqh84t160joa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
